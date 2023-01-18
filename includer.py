@@ -58,7 +58,6 @@ def file_process(filepath,outpath=None):
 
 
 
-print(file_process("/storage/emulated/0/Scripts/python/Tests/test2.py"))
 
 
 
